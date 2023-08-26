@@ -13,6 +13,15 @@ M - Mandat/y/ów
 https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
 @PolsatNewsPL
 
-"BLOX"-Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
+"BLOX" - Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
 
 #ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
+
+Według mojej prognozy:
+✌🇵🇱✌
+2023-08-26
+ZP - 35.98%
+KO - 29.70%
+KON - 13.05%
+TD - 9.04%
+L - 8.96%
