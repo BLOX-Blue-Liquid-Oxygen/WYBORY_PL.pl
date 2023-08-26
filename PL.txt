@@ -15,5 +15,4 @@ https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
 
 "BLOX"-Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
 
-
 #ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
