@@ -1,12 +1,12 @@
 AKTUALIZACJA
 ✌🇵🇱🇵🇱🇵🇱✌
-Od:2023-08-17
-Do:2023-08-23
-ZP[@pisorgpl]-(+3)193M
-KO[@Platforma_org](-1)144M
-KON[@KONFEDERACJA_](+3)55M
-TD[@PL_2050+@nowePSL](-8)37M
-L[@__Lewica](+3)30M
+Od:2023-08-23
+Do:2023-08-26
+ZP[@pisorgpl]-(+2)195M
+KO[@Platforma_org](=)144M
+KON[@KONFEDERACJA_](+1)56M
+TD[@PL_2050+@nowePSL](-3)34M
+L[@__Lewica](=)30M
 MN[@NiemcywPolsce](=)1M
 M - Mandat/y/ów
 https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
