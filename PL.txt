@@ -78,7 +78,6 @@ MN[@NiemcywPolsce](=)1M
 M - Mandat/y/ów
 https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
 @telewizja-polsat-s.a.
-1/4
 
 Według mojej prognozy:
 ✌🇵🇱✌
@@ -89,12 +88,7 @@ KON - 13.01%
 TD - 9.58%
 L - 8.95%
 @euractiv-poland @karolinazbytniewska
-2/4
 
 "BLOX" - Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
 
-#ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience
-3/4
-
-#DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
-4/4"
+#ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra"
