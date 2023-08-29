@@ -1,12 +1,12 @@
 𝕏
 WYBORY w POLSCE
 AKTUALIZACJA
-2023-08-27
+2023-08-29
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](-2)193M
-KO[@Platforma_org](+1)145M
-KON[@KONFEDERACJA_](-2)54M
-TD[@PL_2050+@nowePSL](+3)37M
+ZP[@pisorgpl](=)193M
+KO[@Platforma_org](-1)144M
+KON[@KONFEDERACJA_](+1)55M
+TD[@PL_2050+@nowePSL](=)37M
 L[@__Lewica](=)30M
 MN[@NiemcywPolsce](=)1M
 M - Mandat/y/ów
@@ -16,12 +16,12 @@ https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
 
 Według mojej prognozy:
 ✌🇵🇱✌
-2023-08-27
+2023-08-29
 ZP - 35.97%
 KO - 29.74%
-KON - 13.01%
-TD - 9.58%
-L - 8.95%
+KON - 13.07%
+TD - 9.82%
+L - 8.98%
 @PanstwKomWyb @KBiedrzycka @KarolinaZby
 2/4
 
@@ -37,12 +37,12 @@ L - 8.95%
 Insta
 WYBORY w POLSCE
 AKTUALIZACJA
-2023-08-27
+2023-08-29
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](-2)193M
-KO[@platformaobywatelska](+1)145M
-KON[@konfederacja_](-2)54M
-TD[@polska.2050+@nowepsl](+3)37M
+ZP[@pisorgpl](=)193M
+KO[@platformaobywatelska](-1)144M
+KON[@konfederacja_](+1)55M
+TD[@polska.2050+@nowepsl](=)37M
 L[@__lewica](=)30M
 MN[@mniejszoscniemiecka](=)1M
 M - Mandat/y/ów
@@ -51,12 +51,12 @@ https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
 
 Według mojej prognozy:
 ✌🇵🇱✌
-2023-08-27
+2023-08-29
 ZP - 35.97%
 KO - 29.74%
-KON - 13.01%
-TD - 9.58%
-L - 8.95%
+KON - 13.07%
+TD - 9.82%
+L - 8.98%
 @kamila_biedrzycka @karolinazby
 
 "BLOX" - Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
@@ -67,12 +67,12 @@ L - 8.95%
 FB
 WYBORY w POLSCE
 AKTUALIZACJA
-2023-08-27
+2023-08-29
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[ @pisorgpl](-2)193M
-KO[ @PlatformaObywatelska](+1)145M
-KON[ @KONFEDERACJA2019](-2)54M
-TD[ @PL2050+ @nowePSL](+3)37M
+ZP[ @pisorgpl](=)193M
+KO[ @PlatformaObywatelska](-1)144M
+KON[ @KONFEDERACJA2019](+1)55M
+TD[ @PL2050+ @nowePSL](=)37M
 L[ @NowaaLewica](=)30M
 MN[ @DeutscheMinderheitInOppeln](=)1M
 M - Mandat/y/ów
@@ -81,12 +81,12 @@ https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
 
 Według mojej prognozy:
 ✌🇵🇱✌
-2023-08-27
+2023-08-29
 ZP - 35.97%
 KO - 29.74%
-KON - 13.01%
-TD - 9.58%
-L - 8.95%
+KON - 13.07%
+TD - 9.82%
+L - 8.98%
 @EURACTIV.pl
 
 "BLOX" - Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
@@ -99,12 +99,12 @@ Platforma 𝕏 dawniej Twitter:
 
 "WYBORY w POLSCE
 AKTUALIZACJA
-2023-08-27
+2023-08-29
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](-2)193M
-KO[@Platforma_org](+1)145M
-KON[@KONFEDERACJA_](-2)54M
-TD[@PL_2050+@nowePSL](+3)37M
+ZP[@pisorgpl](=)193M
+KO[@Platforma_org](-1)144M
+KON[@KONFEDERACJA_](+1)55M
+TD[@PL_2050+@nowePSL](=)37M
 L[@__Lewica](=)30M
 MN[@NiemcywPolsce](=)1M
 M - Mandat/y/ów
@@ -113,12 +113,12 @@ https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl
 
 Według mojej prognozy:
 ✌🇵🇱✌
-2023-08-27
+2023-08-29
 ZP - 35.97%
 KO - 29.74%
-KON - 13.01%
-TD - 9.58%
-L - 8.95%
+KON - 13.07%
+TD - 9.82%
+L - 8.98%
 @euractiv-poland @karolinazbytniewska
 
 "BLOX" - Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
@@ -128,6 +128,6 @@ L - 8.95%
 
 ZP - 6643915.0
 KO - 5493189.0
-KON - 2403038.0
-TD - 1769493.0
-L - 1653128.0
+KON - 2414120.0
+TD - 1813826.0
+L - 1658670.0
