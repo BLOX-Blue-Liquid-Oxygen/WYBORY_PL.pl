@@ -3,9 +3,9 @@ WYBORY w POLSCE
 SYMULACJA
 2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](37.28000168916084%)217M
-KO[@Platforma_org](33.75000203024139%)183M
-KON[@KONFEDERACJA_](13.040002252214451%)59M
+ZP[@pisorgpl](37.28%)217M
+KO[@Platforma_org](33.75%)183M
+KON[@KONFEDERACJA_](13.04%)59M
 TD[@PL_2050+@nowePSL](7.99%)0M
 L[@__Lewica](4.99%)0M
 MN[@NiemcywPolsce](=)1M
@@ -28,9 +28,9 @@ WYBORY w POLSCE
 SYMULACJA
 2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](37.28000168916084)217M
-KO[@platformaobywatelska](33.75000203024139)183M
-KON[@konfederacja_](13.040002252214451)59M
+ZP[@pisorgpl](37.28%)217M
+KO[@Platforma_org](33.75%)183M
+KON[@KONFEDERACJA_](13.04%)59M
 TD[@PL_2050+@nowePSL](7.99%)0M
 L[@__Lewica](4.99%)0M
 MN[@mniejszoscniemiecka](=)1M
@@ -50,9 +50,9 @@ WYBORY w POLSCE
 SYMULACJA
 2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[ @pisorgpl](37.28000168916084%)217M
-KO[ @PlatformaObywatelska](33.75000203024139%)183M
-KON[ @KONFEDERACJA2019](13.040002252214451%)59M
+ZP[@pisorgpl](37.28%)217M
+KO[@Platforma_org](33.75%)183M
+KON[@KONFEDERACJA_](13.04%)59M
 TD[@PL_2050+@nowePSL](7.99%)0M
 L[@__Lewica](4.99%)0M
 MN[ @DeutscheMinderheitInOppeln](=)1M
@@ -74,9 +74,9 @@ Platforma 𝕏 dawniej Twitter:
 SYMULACJA
 2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](37.28000168916084%)217M
-KO[@Platforma_org](33.75000203024139%)183M
-KON[@KONFEDERACJA_](13.040002252214451%)59M
+ZP[@pisorgpl](37.28%)217M
+KO[@Platforma_org](33.75%)183M
+KON[@KONFEDERACJA_](13.04%)59M
 TD[@PL_2050+@nowePSL](7.99%)0M
 L[@__Lewica](4.99%)0M
 MN[@NiemcywPolsce](=)1M
